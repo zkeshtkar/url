@@ -1,0 +1,6 @@
+src/bin/
+tests/bin/
+tests/obj/
+venv/
+.idea/
+src/obj/
